@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:root@localhost/technicaladda",
+    "prod_uri":"mysql://root:@localhost/technicaladda",
+    "fb_url":"https://facebook.com/technicaladda",
+    "tw_url":"https://twitter.com/technicaladda",
+    "gh_url": "https://github.com/technicaladda",
+    "blog_name": "Technical Adda",
+    "tag_line": "Heaven for programmers",
+    "gmail-user":"pooja160699@gmail.com",
+    "gmail-password":"Poojabhagat123@",
+    "about_text": " Hello I am Pooja Bhagat and I am writing this blog for learning",
+    "no_of_posts": 4,
+    "login_image": "login.jpg",
+    "admin_user": "pooja",
+    "admin_password": "pooja123",
+    "upload_location": "C:\\Users\\Pooja\\Flask Project\\static"
+  }
+}
